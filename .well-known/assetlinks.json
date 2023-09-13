@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.art.swiirv",
-    "sha256_cert_fingerprints":
-    ["A3:8F:38:D4:75:8D:9A:D5:0C:E7:58:3C:4C:44:97:94:FC:FD:C5:E1:2D:9E:AA:FB:75:FD:07:FB:2A:07:A4:CD"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.art.swiirv",
+      "sha256_cert_fingerprints": [
+        "A3:8F:38:D4:75:8D:9A:D5:0C:E7:58:3C:4C:44:97:94:FC:FD:C5:E1:2D:9E:AA:FB:75:FD:07:FB:2A:07:A4:CD"
+      ]
+    }
   }
-}]
+]
