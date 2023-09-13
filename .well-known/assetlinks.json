@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.art.swiirv",
+    "sha256_cert_fingerprints":
+    ["f8:00:da:af:1e:6d:02:b4:6c:4f:db:4d:99:77:c6:59:15:98:45:53:ea:bd:23:18:d4:71:24:9b:61:ed:a2:33"]
+  }
+}]
