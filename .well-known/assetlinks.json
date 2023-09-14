@@ -6,8 +6,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.art.swiirv",
-      "sha256_cert_fingerprints": [
-        "A3:8F:38:D4:75:8D:9A:D5:0C:E7:58:3C:4C:44:97:94:FC:FD:C5:E1:2D:9E:AA:FB:75:FD:07:FB:2A:07:A4:CD"
+      "sha256_cert_fingerprints": [ 
+        "45:15:F5:80:95:34:94:05:7F:C8:33:E8:EC:BF:89:05:7C:81:A9:A7:67:1B:40:FC:43:2D:99:E8:B9:A4:CB:B1"
       ]
     }
   }
